@@ -1,2 +1,2 @@
 # reinforcement
-Training work common and robotics environments
+Training work with common and robotics environments
